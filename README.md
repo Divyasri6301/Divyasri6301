@@ -203,3 +203,6 @@ Graduated: June 2025
 📧 [divyasrianumula@gmail.com](mailto:divyasrianumula@gmail.com)
 
 💻 https://github.com/Divyasri6301
+
+💡 Open to opportunities in Embedded Firmware Development, Smart Metering, IoT, and Real-Time Embedded Systems. Let's connect and build impactful technology together.
+
