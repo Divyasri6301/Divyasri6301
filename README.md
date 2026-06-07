@@ -16,7 +16,7 @@
 
 I'm an Embedded Firmware Engineer with hands-on experience in Smart Metering Systems, Embedded C development, firmware validation, DLMS/COSEM protocol testing, and Zigbee-based communication systems.
 
-Currently working as a Firmware Intern at Adya Smart Metering, where I contribute to smart meter testing, calibration, protocol validation, and communication diagnostics.
+Completed a Firmware Internship at Adya Smart Metering, where I worked on smart meter testing, DLMS/COSEM protocol validation, Zigbee communication, calibration, and firmware diagnostics.
 
 My interests include:
 
