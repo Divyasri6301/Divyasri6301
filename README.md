@@ -4,7 +4,7 @@
 
 📍 Hyderabad, Telangana, India
 
-📧 divyasrianumula@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/anumula-divyasri-6a67a9268) | 💻 [GitHub](https://github.com/Divyasri6301)
+📧 divyasrianumula@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/anumula-divyasri-6a67a9268) | 💻 [GitHub](https://www.linkedin.com/in/divyasri-anumula-6a67a9268/)
 ---
 
 ## 👩‍💻 About Me
