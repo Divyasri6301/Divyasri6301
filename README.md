@@ -1,5 +1,5 @@
 
-# Hi, I'm Divya Sri 👋
+# Hi, I'm DivyaSri Anumula 👋
 
 ### Embedded Firmware Engineer | Smart Metering | Embedded C | DLMS/COSEM | Zigbee
 
