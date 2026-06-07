@@ -6,10 +6,9 @@
 
 📧 divyasrianumula@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/anumula-divyasri-6a67a9268
+🔗 [LinkedIn](https://www.linkedin.com/in/anumula-divyasri-6a67a9268)
 
-💻 GitHub: github.com/Divyasri6301
-
+💻 [GitHub](https://github.com/Divyasri6301)
 ---
 
 ## 👩‍💻 About Me
