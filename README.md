@@ -198,8 +198,8 @@ Graduated: June 2025
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/anumula-divyasri-6a67a9268
+🔗 https://www.linkedin.com/in/divyasri-anumula-6a67a9268/
 
-Email: divyasrianumula@gmail.com
+📧 [divyasrianumula@gmail.com](mailto:divyasrianumula@gmail.com)
 
-GitHub: github.com/Divyasri6301
+💻 https://github.com/Divyasri6301
