@@ -1,15 +1,15 @@
-# Hi, I'm DivyaSri Anumula 👋
+
+# Hi, I'm Divya Sri 👋
 
 ### Embedded Firmware Engineer | Smart Metering | Embedded C | DLMS/COSEM | Zigbee
 
 📍 Hyderabad, Telangana, India
 
-📫 Connect with me
+📧 Email: divyasrianumula@gmail.com
 
-- LinkedIn: [Divya Sri](https://www.linkedin.com/in/anumula-divyasri-6a67a9268)
-- GitHub: [Divyasri6301](https://github.com/Divyasri6301)
-- Email: divyasrianumula@gmail.com
----
+🔗 LinkedIn: https://www.linkedin.com/in/divyasri-anumula-6a67a9268/
+
+💻 GitHub: https://github.com/Divyasri6301
 
 ## 👩‍💻 About Me
 
